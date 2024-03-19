@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @apetrasc
-- 👀 I’m interested in mathematics, psychology and so on.
-- 🌱 I’m currently learning curyptocurrency. Using 2070 Super GPU by setting eGPU box.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ; please send an email me. 
+＜経歴＞
+2024年3月東京大学工学部機械工学科卒業
+2024年4月同大学工学系研究科機械工学専攻入学
 
-<!---
-apetrasc/apetrasc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+＜自己紹介＞
+こんにちは。apetrascです。数学と機械学習の理論が好きです。気が向いたら備忘録的に技術周りのことをまとめていきます。
