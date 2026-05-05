@@ -7,5 +7,5 @@
 こんにちは。機械学習と深層学習が好きです。気ままに備忘録的に技術周りのことをまとめていきます。初心者ですので誤りがあれば指摘していただけると幸いです。  
 
 <Self Introduction>
-Hello. My name is apetrasc. I like learning methematics and machine-learning and fluid mechanics. This account mainly focus on explaining the technical issues I encountered. When I have some misunderstandings of something, I'd appreciate it if you could point them out. 
+Hello. My name is apetrasc. I like learning methematics and machine-learning. This account mainly focus on explaining the technical issues I encountered. When I have some misunderstandings of something, I'd appreciate it if you could point them out. 
 
