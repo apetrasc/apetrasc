@@ -7,5 +7,9 @@
 こんにちは。機械学習と深層学習が好きです。気ままに備忘録的に技術周りのことをまとめていきます。初心者ですので誤りがあれば指摘していただけると幸いです。  
 
 <Self Introduction>
-Hello. My name is apetrasc. I like learning methematics and machine-learning. This account mainly focus on explaining the technical issues I encountered. When I have some misunderstandings of something, I'd appreciate it if you could point them out. 
+  2024/3 Graduated the University of Tokyo, Department of mechanical engineering.
+  2024/4 Entered the Graduate School of University of Tokyo, majoring in mechanical engineering.
+  2024/8-12 Exchange student at KTH Sweden Royal Institute of Technology
+  2026/3 Graduated from the Graduate school of Engineering at the University of Tokyo.
+Hello. My name is apetrasc. I enjoy learning mathematics and machine-learning. This account mainly focuses on documenting the technical issues I encountered. When I have some misunderstandings of something, I'd appreciate it if you could point it out. 
 
